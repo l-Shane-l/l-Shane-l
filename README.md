@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++ Haskell Rust and python
 - 🌱 I’m currently learning Arabic
 - 💞️ I’m looking to collaborate on Beatspeak a heartrate from headmovement app
-- 📫 How to reach me shane.hamilton3@mail.dcu.ie
+- 📫 How to reach me shane.hamilton3.141@gmail.com
 
 <!---
 l-Shane-l/l-Shane-l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
