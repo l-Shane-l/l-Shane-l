@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @l-Shane-l
-- 👀 I’m interested in C++ Haskell Rust and python
-- 🌱 I’m currently learning Arabic
+- 👀 I’m interested in C++ Haskell PureScript, FreeBSD
+- 🌱 I’m currently learning Spanish
 - 💞️ I’m looking to collaborate on Beatspeak a heartrate from headmovement app
 - 📫 How to reach me shane.hamilton3.141@gmail.com
 
